@@ -1,0 +1,21 @@
+{
+  "name": "chapter-9",
+  "version": "1.0.0",
+  "description": "FlixTube(Microservices for streaming video.",
+  "scripts": {
+    "test:watch": "cypress open",
+    "test": "cypress run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.4.1",
+    "mongodb": "^3.5.6"
+  },
+  "repository": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+  }
+}

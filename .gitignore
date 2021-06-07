@@ -1,0 +1,13 @@
+.vagrant/
+.terraform/
+node_modules/
+todo.txt
+ubuntu-xenial-16.04-cloudimg-console.log
+run.log
+microservices/video-upload/uploads/
+microservices/logs/
+microservices/cypress/videos/
+*.bak
+microservices/mock-storage/storage/
+microservices/scripts/terraform.tfstate
+microservices/scripts/terraform.tfstate.backup
